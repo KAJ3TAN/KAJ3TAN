@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/128511852/227725090-b29683e7-349c-4ffa-a4d0-b70fe98fd21e.gif"></p>
 
-- 📫 How to reach me **kajetan.szymura900@gmail.com**
+
 
 
 
